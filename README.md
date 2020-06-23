@@ -1,0 +1,2 @@
+This program manages smart fishbowls. With the Android app, you can remotely control the temperature, feeding, illumination and oxygen saturation of the fishbowl. This program was created by team project, and the Android app and Arduino code were not copyrighted, so only the server-side I created was added to github.
+It is a server program that connects android app and arduino. The information sent by arduino is sent to zigbee and the server program sends the information to android app.
